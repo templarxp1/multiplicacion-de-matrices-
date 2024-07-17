@@ -10,7 +10,7 @@ body {
   }
   
   .container {
-    background-color: #fff;
+    background-color: 255,0,0,0.5;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -26,7 +26,7 @@ body {
   }
   
   button {
-    background-color: #4caf50;
+    background-color: #1b5c56;
     color: #fff;
     padding: 10px;
     border: none;
@@ -35,7 +35,7 @@ body {
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #194b1c;
   }
   
   h2 {
